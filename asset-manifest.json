@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AudioPlayer/static/css/main.3b268ed7.css",
+    "main.js": "/AudioPlayer/static/js/main.65a6c1f1.js",
+    "static/js/453.395c2c47.chunk.js": "/AudioPlayer/static/js/453.395c2c47.chunk.js",
+    "index.html": "/AudioPlayer/index.html",
+    "main.3b268ed7.css.map": "/AudioPlayer/static/css/main.3b268ed7.css.map",
+    "main.65a6c1f1.js.map": "/AudioPlayer/static/js/main.65a6c1f1.js.map",
+    "453.395c2c47.chunk.js.map": "/AudioPlayer/static/js/453.395c2c47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b268ed7.css",
+    "static/js/main.65a6c1f1.js"
+  ]
+}
