@@ -1,0 +1,54 @@
+.entry {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 15px 0;
+  background-color: #89eab9;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.entry:hover {
+  transform: scale(1.02);
+}
+
+.playlist-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #df5757;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.playlist-header {
+  color: #333;
+  text-align: center;
+}
+
+.song-container {
+  text-align: left;
+}
+
+.song-title {
+  font-size: 1.5em;
+  margin-bottom: 5px;
+}
+
+.song-details {
+  font-size: 1.2em;
+  color: #777;
+}
+
+.podcast-container {
+  text-align: left;
+}
+
+.podcast-title {
+  font-size: 1.5em;
+  margin-bottom: 5px;
+}
+
+.podcast-details {
+  font-size: 1.2em;
+  color: #777;
+}
